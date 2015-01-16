@@ -1,4 +1,4 @@
-[Direwolf20-ModPack](https://github.com/alexgurrola/direwolf20-modpack) - Universal Content Management System
+[Direwolf20-ModPack](https://github.com/alexgurrola/direwolf20-modpack) - Additions
 =====
 
 #####Overview
@@ -9,6 +9,53 @@ These modpack additions are specifically designed to increase the options and st
 * Feed the Beast
 * Direwolf20 Modpack 1.0.3
 * Minecraft Forge 1.7.10
+
+#####Mod List
+
+* Ars Magica
+* AlchemyPlusPlus
+* AppleCore
+* BetterStorage
+* CosmeticArmor
+* Dark Menagerie
+* DeadlyWorld
+* Enchiridion
+* ExtraCells
+* Forbidden Magic
+* Fossils and Archeology Revival
+* Greg's SGCraft
+* Growthcraft Apples
+* Growthcraft Bamboo
+* Growthcraft Bees
+* Growthcraft Cellas
+* Growthcraft Core
+* Growthcraft Fishtrap
+* Growthcraft Grapes
+* Growthcraft Hops
+* Growthcraft Rice
+* Hardcore Ender Expansion
+* Hunger Overhaul
+* Magical Crops
+* Mekanism
+* Mekanism Generators
+* Mekanism Tools
+* Minechem
+* MyCrayfish
+* OpenBlocks
+* OpenComputers
+* OpenEye
+* OpenMods Lib
+* OpenPeripheral Addons
+* OpenPeripheral Core
+* OpenPeripheral Integration
+* Pam's HarvestCraft
+* ParticlePhysics
+* Rancraft Penguins
+* RandomThings
+* Roguelike Dungeons
+* Simply Jetpacks
+* Warpbook
+* Xeno's Reliquary
 
 #####Main Goals
 * Coming soon.
