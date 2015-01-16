@@ -88,4 +88,4 @@ mods\OpenPeripheralIntegration-1.7.10-0.1.0-snapshot-14.jar
 
 ##Credits
 
-This project has always been built and tested by various people during the course of its initial inception to final release.
+This project has been built and tested by various people during the course of its initial inception to final release.
